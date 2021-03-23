@@ -1,0 +1,85 @@
+Tecplot 2018.2.1.93726 Batch Log
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: LoadAddOn
+ACTION: NewLayout
+Error: Filename Error: File does not exist.
+FileName:
+...S\Working\FlowData_processing_py\source\B00001.dat
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\012.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\Vpre.plt
+Error: Filename Error: File does not exist.
+FileName:
+...iment\LiftingSmallVAWT\PIV_Res\CASE\004\B00001.dat
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\Vpre.plt
+Error: Filename Error: File does not exist.
+FileName:
+...iment\LiftingSmallVAWT\PIV_Res\CASE\004\B00001.dat
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\012\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\004\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\004\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\004\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\004\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\020\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\020\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\020\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\020\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\036\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\036\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\036\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\036\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\041\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\041\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\041\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\041\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\042\B00001.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\042\V.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\042\B00002.dat"
+ACTION: WriteDataSet: D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\042\Vpre.plt
+ACTION: ReadDataSet: "D:\Ming_DOCUMENTS\Working\Experiment\LiftingSmallVAWT\PIV_Res\CASE\004\V.plt"
